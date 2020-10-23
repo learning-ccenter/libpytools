@@ -5,4 +5,4 @@
 [![Python 3](https://pyup.io/repos/github/learning-ccenter/libpytools/python-3-shield.svg)](https://pyup.io/repos/github/learning-ccenter/libpytools/)
 
 
-Just study
+Just study python tooling
